@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\Mastermind\MastermindServer\bin\Release\MastermindServer.exe.config
+C:\Users\David\Desktop\Mastermind\MastermindServer\bin\Release\MastermindServer.exe
+C:\Users\David\Desktop\Mastermind\MastermindServer\bin\Release\MastermindServer.pdb
+C:\Users\David\Desktop\Mastermind\MastermindServer\bin\Release\MastermindLibrary.dll
+C:\Users\David\Desktop\Mastermind\MastermindServer\bin\Release\MastermindLibrary.pdb
+C:\Users\David\Desktop\Mastermind\MastermindServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Mastermind\MastermindServer\obj\x86\Release\MastermindServer.exe
+C:\Users\David\Desktop\Mastermind\MastermindServer\obj\x86\Release\MastermindServer.pdb
+D:\School\Winter2011\NET\Mastermind\MastermindServer\bin\Release\MastermindServer.exe.config
+D:\School\Winter2011\NET\Mastermind\MastermindServer\bin\Release\MastermindServer.exe
+D:\School\Winter2011\NET\Mastermind\MastermindServer\bin\Release\MastermindServer.pdb
+D:\School\Winter2011\NET\Mastermind\MastermindServer\bin\Release\MastermindLibrary.dll
+D:\School\Winter2011\NET\Mastermind\MastermindServer\bin\Release\MastermindLibrary.pdb
+D:\School\Winter2011\NET\Mastermind\MastermindServer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\School\Winter2011\NET\Mastermind\MastermindServer\obj\x86\Release\MastermindServer.exe
+D:\School\Winter2011\NET\Mastermind\MastermindServer\obj\x86\Release\MastermindServer.pdb

@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Mastermind\MastermindLibrary\bin\Release\MastermindLibrary.dll
+C:\Users\David\Desktop\Mastermind\MastermindLibrary\bin\Release\MastermindLibrary.pdb
+C:\Users\David\Desktop\Mastermind\MastermindLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Mastermind\MastermindLibrary\obj\Release\MastermindLibrary.dll
+C:\Users\David\Desktop\Mastermind\MastermindLibrary\obj\Release\MastermindLibrary.pdb
+D:\School\Winter2011\NET\Mastermind\MastermindLibrary\bin\Release\MastermindLibrary.dll
+D:\School\Winter2011\NET\Mastermind\MastermindLibrary\bin\Release\MastermindLibrary.pdb
+D:\School\Winter2011\NET\Mastermind\MastermindLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\School\Winter2011\NET\Mastermind\MastermindLibrary\obj\Release\MastermindLibrary.dll
+D:\School\Winter2011\NET\Mastermind\MastermindLibrary\obj\Release\MastermindLibrary.pdb
